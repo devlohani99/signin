@@ -32,7 +32,7 @@ const App = () => {
         </button>
 
         <p style={styles.signInText}>
-          New to careerदोस्त? <a href="/">Sign up</a>
+          New to careerदोस्त? <a href="https://signup-pi-pearl.vercel.app/">Sign up</a>
         </p>
 
         <p style={styles.or}>or</p>
